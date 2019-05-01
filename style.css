@@ -1,0 +1,187 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  display: flex;
+  flex-flow: row nowrap;
+
+  justify-content: center;
+}
+
+.Plateau-Jeux
+{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+
+  height: 90%;
+  width: 85%;
+
+  margin-top: 20px;
+  padding: 5px;
+
+  border: 5px solid black;
+}
+
+.Infos
+{
+  margin-top: 20px;
+  margin-right: 50px;
+}
+
+.Infos_Score
+{
+  display: flex;
+}
+
+.Nom-Joueur
+{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Chronos
+{
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.Score, .Titre-Score
+{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.C1
+{
+  color: rgb(255, 0, 0)
+}
+
+.C2
+{
+  color: rgb(255, 173, 0)
+}
+
+.C3
+{
+  color: rgb(255, 242, 0)
+}
+
+.C4
+{
+  color: rgb(215, 255, 0)
+}
+
+.C5
+{
+  color: rgb(154, 255, 0)
+}
+
+.C6
+{
+  color: rgb(85, 255, 0)
+}
+
+.C7
+{
+  color: rgb(1, 255, 0)
+}
+
+.C8
+{
+  color: rgb(0, 255, 91)
+}
+
+.C9
+{
+  color: rgb(0, 255, 183)
+}
+
+.C10
+{
+  color: rgb(0, 255, 244)
+}
+
+.C11
+{
+  color: rgb(0, 205, 255)
+}
+
+.C12
+{
+  color: rgb(0, 143, 255)
+}
+
+.C13
+{
+  color: rgb(0, 52, 255)
+}
+
+.C14
+{
+  color: rgb(71, 0, 255)
+}
+
+.C15
+{
+  color: rgb(109, 0, 255)
+}
+
+.C16
+ {
+   color: rgb(193, 0, 255)
+ }
+
+ .C17
+ {
+   color: rgb(239, 0, 255)
+ }
+
+.C18
+{
+  color: rgb(255, 0, 210)
+}
+
+.C19
+{
+  color: rgb(255, 0, 156)
+}
+
+.C20
+{
+  color: rgb(255, 0, 103)
+}
+
+.C21
+{
+  color: rgb(255, 0, 0)
+}
+
+.C22
+{
+  color: rgb(133, 0, 0)
+}
+
+.C23
+{
+  color: rgb(133, 0, 109)
+}
+
+.C24
+{
+  color: rgb(29, 0, 133)
+}
+
+.C25
+{
+  color: rgb(0, 133, 127)
+}
+
+.C26
+{
+  color: rgb(96, 133, 0)
+}
